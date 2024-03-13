@@ -1,19 +1,6 @@
 /* general styling?? idk yet */
 
 body {
-    /* You can use a color, an image, or a combination of both */
-    background-color: #f0f0f0; /* Set a background color */
-  
-    /* Uncomment the line below and replace 'background-image.jpg' with your image file path to use an image */
-    /* background-image: url('background-image.jpg'); */
-    
-    /* Choose how the background image should be repeated */
-    /* background-repeat: no-repeat; */
-    
-    /* Choose how the background image should be positioned */
-    /* background-position: center center; */
-    
-    /* Choose the size of the background image */
-    /* background-size: cover; */
+    background-image: url("https://i.pinimg.com/564x/cf/f3/50/cff350f82bc0e45f27a7187184046ba1.jpg");
   }
   
