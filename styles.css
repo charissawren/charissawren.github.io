@@ -2,5 +2,10 @@
 
 body {
     background-image: url("https://i.pinimg.com/564x/cf/f3/50/cff350f82bc0e45f27a7187184046ba1.jpg");
+    cursor: url('charissawren.github.io/images/cursor.png'), auto !important; 
+    /*sort this out - maybe save as a png instead.
+      also add in cute click effects hehe*/
   }
+  
+
   
